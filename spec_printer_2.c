@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * convert_fmt_b - Prints the binary format of an unsigned int argument
+ * convert_fmt_b - Function Prints the binary format of an unsigned int argument
  * @args_list: The arguments list.
  * @args_list: The arguments list.
  * @fmt_info: The format info
