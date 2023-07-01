@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * init_format_info - initializes a format info struct
+ * init_format_info - function that initializes a format info struct
  * @spec: The format info to initialize.
  * @spec: The format info to initialize.
  */
