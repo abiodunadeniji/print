@@ -2,16 +2,18 @@
 
 A lightweight implementation of the printf function in C.
 
-## Installation
+## Description
 
-To use `printf` in your C project, simply include the `printf.h` header file and link against the `printf.c` source file.
+This repository contains a simplified implementation of the printf function in the C programming language. The printf function is a powerful and versatile function used for formatted output. This implementation aims to provide a lightweight version of printf with support for common conversion specifiers.
 
-## Usage
+## Supported Conversion Specifiers
 
-```c
-#include "printf.h"
+- `%c`: Prints a single character.
+- `%s`: Prints a null-terminated string.
+- `%d`, `%i`, `%u`, `%o`, `%x`, `%X`: Prints signed or unsigned integers in decimal, octal, or hexadecimal format.
+- `%p`: Prints a pointer address.
+- `%S`: Prints a string with non-printable characters represented in the format `\xXX`, where `XX` is the ASCII code value in hexadecimal (always two characters in uppercase).
 
-int main() {
-    printf("Hello, world!\n");
-        return 0;
-	}
+## Author
+
+This repository is maintained by [@abiodunadeniji](https://github.com/abiodunadeniji).
