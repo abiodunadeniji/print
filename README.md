@@ -16,4 +16,4 @@ This repository contains a simplified implementation of the printf function in t
 
 ## Author
 
-This repository is maintained by [@{GITHUB_USERNAME}](https://github.com/{abiodunadeniji}).
+This repository is maintained by [@abiodunadeniji](https://github.com/abiodunadeniji).
